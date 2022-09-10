@@ -1,0 +1,7 @@
+﻿  ShootingComponent.cpp
+d:\gameprojects\tictactoe\tictactoe\shootingcomponent.cpp(7): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  TicTacToe.vcxproj -> D:\GameProjects\TicTacToe\Debug\TicTacToe.exe
